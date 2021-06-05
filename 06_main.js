@@ -20,7 +20,7 @@ $("document").ready(function() {
             practice,
             instructions_main,
             main,
-            postTest,
+            post_test,
             thanks,
         ],
         // Here, you can specify all information for the deployment
