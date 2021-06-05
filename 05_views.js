@@ -128,7 +128,7 @@ const practice = custom_views.keypress_rotation_practice({
     // trials: 2,
     name: 'practice',
     trial_type: 'practice',
-    pause: 250,
+    /*pause: 250,*/
     stim_duration: 7500,
     data: _.shuffle(practice_trials.key_press),
     key1: "f",
@@ -146,7 +146,7 @@ const main = custom_views.keypress_rotation_main({
     // trials: 8,
     name: 'main',
     trial_type: 'main',
-    pause: 250,
+    /*pause: 250,*/
     stim_duration: 7500,
     data: _.shuffle(main_trials.key_press),
     key1: "f",
